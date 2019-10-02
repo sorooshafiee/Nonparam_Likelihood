@@ -12,5 +12,5 @@ pip install -r requirements.txt
 
 ### Reference 
 ----
-"[Distributionally Optimistic Optimization Approach to Nonparametric Likelihood Approximation]() ", V. A. Nguyen, S. Shafieezadeh-Abadeh, M.-C. Yue, D. Kuhn, W. Wiesemann. In Advances in Neural Information Processing Systems (NeurIPS), Vancouver, 2019.
+V. A. Nguyen, S. Shafieezadeh-Abadeh, M.-C. Yue, D. Kuhn, W. Wiesemann. [Distributionally Optimistic Optimization Approach to Nonparametric Likelihood Approximation](). In Advances in Neural Information Processing Systems (NeurIPS), Vancouver, 2019.
 
